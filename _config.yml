@@ -19,7 +19,7 @@ lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: SK # ⚛️  # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
 url: https://sarahkaspar.github.io # the base hostname & protocol for your site
-baseurl: /blog/ # the subpath of your site, e.g. /blog/
+baseurl: /about # the subpath of your site, e.g. /blog/
 last_updated: false # set to true if you want to display last updated in the footer
 impressum_path:  # set to path to include impressum link in the footer, use the same path as permalink in a page, helps to conform with EU GDPR
 
@@ -107,7 +107,7 @@ discord_id: # your discord id (18-digit unique numerical identifier)
 zotero_username: # your zotero username
 
 contact_note: >
-  You can best contact me via LinkedIn.
+  Preferred contact via LinkedIn.
 
 # -----------------------------------------------------------------------------
 # Analytics and search engine verification
@@ -171,7 +171,7 @@ collections:
   news:
     defaults:
       layout: post
-    output: true
+    output: false
     permalink: /news/:path/
   projects:
     output: true
@@ -211,6 +211,9 @@ exclude:
   - Gemfile
   - Gemfile.lock
   - vendor
+  - pages_unused/publications.md
+  - blog
+  - pages_unused/projects.md
 keep_files:
   - CNAME
   - .nojekyll

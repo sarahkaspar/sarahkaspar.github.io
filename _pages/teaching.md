@@ -2,7 +2,7 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: My training materials are free for re-use, usually under a CC-BY license. Please reference them accordingly. Feel free to contact me if you have any questions.
+description: My training materials are free for re-use, usually under a CC-BY license. Please reference them appropriately. Feel free to reach out if you have any questions.
 nav: true
 nav_order: 5
 ---
