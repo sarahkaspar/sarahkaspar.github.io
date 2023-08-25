@@ -2,11 +2,12 @@
 layout: page
 permalink: /repositories/
 title: repositories
-description: Edit the `_data/repositories.yml` and change the `github_users` and `github_repos` lists to include your own GitHub profile and repositories.
+description: My public repositories contain training materials, including carpentries lessons and interactive tutorials.
 nav: true
 nav_order: 3
 ---
 
+<!--
 ## GitHub users
 
 {% if site.data.repositories.github_users %}
@@ -32,7 +33,7 @@ nav_order: 3
 {% endfor %}
 {% endif %}
 {% endif %}
-
+-->
 ## GitHub Repositories
 
 {% if site.data.repositories.github_repos %}
@@ -42,3 +43,11 @@ nav_order: 3
   {% endfor %}
 </div>
 {% endif %}
+
+
+## EMBL Gitlab Repositories
+The source code for my [interactive tutorials on Biostatistics]((https://www.ebi.ac.uk/training/online/courses/biostatistics-introduction/)) is found on the EMBL Gitlab server:
+
+- [Interactive tutorial on data wrangling and visualization](https://git.embl.de/kaspar/learnr-project)  
+- [Interactive tutorial on statistical distributions](https://git.embl.de/kaspar/csda-tutorial-distributions)   
+- Interactive tutorial on hypothesis testing  

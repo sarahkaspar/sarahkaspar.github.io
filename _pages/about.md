@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Biological Data Scientist and Statistics Trainer
+subtitle: Biological Data Scientist, Consultant and Trainer
 
 profile:
   align: right
@@ -18,7 +18,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I'm an applied bioinformatician, currently working as a biostatistics consultant and trainer [at EMBL](https://www.embl.org/people/person/sarah-kaspar/), where I run the [Centre for Statistical Data Analysis](https://bio-it.embl.de/centres/csda/).
+I'm an applied biostatistician, working as a consultant and trainer [at EMBL](https://www.embl.org/people/person/sarah-kaspar/), where I run the [Centre for Statistical Data Analysis](https://bio-it.embl.de/centres/csda/).
 
 I'm trained as a biologist and bioinformatician, and have worked in the following areas:
 

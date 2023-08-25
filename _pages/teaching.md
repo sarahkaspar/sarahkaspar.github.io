@@ -20,3 +20,4 @@ Not listing in-house training, delivering which is my primary task at EMBL.
 - 2023-06: [CSAMA summer school, Brixen, Italy](https://csama2023.bioconductor.eu/)
 - 2023-05: [EBI webinar on Interpreting results from Biostatistics](https://www.ebi.ac.uk/training/events/beginners-guide-interpreting-results-biostatistics/)
 - 2023-05: [Statistics workshop at Lisbon, Portugal](https://olissipo.inesc-id.pt/2023/04/19/olissipo-workshops-embl-training/)
+- 2023-05: [GHGA webinar on biostatistics](https://www.ghga.de/events/detail/ghga-webinar-interpretation-of-results-from-biostatistics)

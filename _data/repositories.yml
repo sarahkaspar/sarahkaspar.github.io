@@ -4,3 +4,8 @@ github_users:
 github_repos:
   - sarahkaspar/biostatistics-course
   - sarahkaspar/hypothesis-testing
+
+gitlab_repos:
+  - https://git.embl.de/kaspar/learnr-project
+  - https://git.embl.de/kaspar/csda-tutorial-distributions
+  - https://git.embl.de/kaspar/csda-tutorial-03-testing
