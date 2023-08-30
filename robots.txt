@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://sarahkaspar.github.io/about/sitemap.xml
+Sitemap: https://sarahkaspar.github.io/sitemap.xml
