@@ -30,4 +30,4 @@ I'm trained as a biologist and bioinformatician, and have worked in the followin
 - microbiology 
 - machine learning 
 
-I'm dedicated to communicating science clearly, [teaching](/about/teaching), and providing open-source training materials.
+I'm dedicated to communicating science clearly, [teaching](teaching), and providing open-source training materials.
