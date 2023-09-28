@@ -50,4 +50,4 @@ The source code for my [interactive tutorials on Biostatistics]((https://www.ebi
 
 - [Interactive tutorial on data wrangling and visualization](https://git.embl.de/kaspar/learnr-project)  
 - [Interactive tutorial on statistical distributions](https://git.embl.de/kaspar/csda-tutorial-distributions)   
-- Interactive tutorial on hypothesis testing  
+- [Interactive tutorial on hypothesis testing](https://git.embl.de/kaspar/csda-tutorial-03-testing)  
