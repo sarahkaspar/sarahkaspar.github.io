@@ -1,7 +1,7 @@
 {
   "basics": {
     "name": "Sarah Kaspar",
-    "label": "Biological Data Scientist, Consultant and Trainer",
+    "label": "Biological Data Science Consultant & Manager",
     "image": "",
     "email": "sarah.kaspar@embl.de",
     "url": "https://sarahkaspar.github.io",
@@ -20,11 +20,22 @@
   "work": [
     {
       "name": "EMBL Heidelberg",
+      "position": "Data Science Consulting Manager",
+      "url": "https://www.embl.org/people/person/sarah-kaspar/",
+      "startDate": "2024-06",
+      "endDate": "current",
+      "summary": "Managing the Data Science Consulting for all EMBL sites, actively providing consulting and training as expert for biostatistical methods.",
+      "highlights": [
+        "Biostatistics","Consulting","Training","Management"
+      ]
+    },
+    {
+      "name": "EMBL Heidelberg",
       "position": "Statistician and Biological Data Analyst",
       "url": "https://www.embl.org/people/person/sarah-kaspar/",
       "startDate": "2020-07",
-      "endDate": "current",
-      "summary": "I run the Centre for Statistical Data Analysis, where I provide statistical consulting and training, and work in short-term scientific collaborations.",
+      "endDate": "2024-06",
+      "summary": "I ran the Centre for Statistical Data Analysis, where I provided statistical consulting and training, and worked in short-term scientific collaborations.",
       "highlights": [
         "Biostatistics","Consulting","Training"
       ]
