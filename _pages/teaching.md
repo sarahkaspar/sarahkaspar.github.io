@@ -11,7 +11,7 @@ nav_order: 5
 
 My training materials are free for re-use, usually under a CC-BY license. Please reference them appropriately. 
 
-Feel free to reach out if you have open questions.
+You're free to reach out if you have open questions.
 
 - [EBI interactive biostatistics tutorial](https://www.ebi.ac.uk/training/online/courses/biostatistics-introduction/) 
 - Statistical distributions for biologists  ([website](https://sarahkaspar.github.io/biostatistics-course/) / [github](https://github.com/sarahkaspar/biostatistics-course)) 
